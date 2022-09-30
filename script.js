@@ -90,7 +90,6 @@ var modal = document.getElementById("myModal");
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
 var img = document.getElementById("myImg aishwarya");
-var img2=document.getElementById("myImg bala");
 // var modalImg = document.getElementById("img01");
 var iframeWebPage = document.getElementById("iframe-web");
 var captionText = document.getElementById("caption");
